@@ -29,3 +29,17 @@ Esta Aplicación móvil tiene su inspiración en un proyecto de *Crear un diseñ
 
 - Una computadora con Android Studio instalado.
 - La app del codelab Cómo compilar una app simple con elementos de texto que admiten composición.
+
+## PANTALLAS DEL PROYECTO MEJORADO
+
+<p align="center">
+<img src="src/image_03.png" width="270" height="500"> <img src="src/image_04.png" width="270" height="500">
+</p>
+
+## VIDEO DEL PROYECTO MEJORADO
+
+> [!NOTE]
+> La aplicación contiene audio, se sugiere al reproducir el video confirmar que el audio esté activado.
+
+https://github.com/user-attachments/assets/e55eb02b-47f4-4d96-baa2-def71025f55a
+
