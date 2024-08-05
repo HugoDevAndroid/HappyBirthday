@@ -1,4 +1,10 @@
 # PROYECTO INICIAL - 05/08/2024
+## VIDEO DEL PROYECTO MEJORADO
+
+> [!NOTE]
+> La aplicación contiene audio, se sugiere al reproducir el video confirmar que el audio esté activado.
+
+https://github.com/user-attachments/assets/e55eb02b-47f4-4d96-baa2-def71025f55a
 
 Esta Aplicación móvil tiene su inspiración en un proyecto de *Crear un diseño básico* del Curso **Aspectos básicos de Android con Compose** de Google for Developers.
 
@@ -36,10 +42,5 @@ Esta Aplicación móvil tiene su inspiración en un proyecto de *Crear un diseñ
 <img src="src/image_03.png" width="270" height="500"> <img src="src/image_04.png" width="270" height="500">
 </p>
 
-## VIDEO DEL PROYECTO MEJORADO
 
-> [!NOTE]
-> La aplicación contiene audio, se sugiere al reproducir el video confirmar que el audio esté activado.
-
-https://github.com/user-attachments/assets/e55eb02b-47f4-4d96-baa2-def71025f55a
 
