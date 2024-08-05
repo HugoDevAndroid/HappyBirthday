@@ -61,5 +61,6 @@ Este repositorio cuenta con el instalador APK de la aplicación, para fines de p
 
 > [!WARNING]
 > Este repositorio tiene como única finalidad mostrar un portafolio de proyectos realizados, para mostrar la experiencia y conocimiento en el desarrollo de aplicaciones móviles con Android Studio, conocimientos de Kotlin y el kit de herramientas UI Jetpack Compose.
+> 
 > Este repositorio no cuenta con todos los archivos de código de la aplicación para clonar y hacer pruebas o modificaciones. Si tiene interés en acceder al código de desarrollo de la aplicación o pertenecer a una comunidad exclusiva de Desarrolladores Android para tener acceso al código de cientos de aplicaciones de prueba desarrolladas, puede contactarse con nosotros por Whatsapp al [wa.me/59170616269](https://wa.me/59170616269)
 
