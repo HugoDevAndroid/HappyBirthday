@@ -55,5 +55,11 @@ Esta Aplicación móvil tiene su inspiración en un proyecto de *Crear un diseñ
 
 ✔️ El usuario tiene dos controles para el audio, el control de pausa y el control de continuar la reproducción.
 
+## APLICACIÓN DESCARGABLE
 
+Este repositorio cuenta con el instalador APK de la aplicación, para fines de prueba en un dispositivo físico o virtual en un equipo, como sugerencia de un dispositivo virtual de mejor rendimiento que el emulador de Android Studio, se puede usar BlueStacks. El archivo APK de ésta aplicación se encuentra en el directorio principal del proyecto, junto a MainActivity.kt.
+
+> [!WARNING]
+> Este repositorio tiene como única finalidad mostrar un portafolio de proyectos realizados, para mostrar la experiencia y conocimiento en el desarrollo de aplicaciones móviles con Android Studio, conocimientos de Kotlin y el kit de herramientas UI Jetpack Compose.
+> Este repositorio no cuenta con todos los archivos de código de la aplicación para clonar y hacer pruebas o modificaciones. Si tiene interés en acceder al código de desarrollo de la aplicación o pertenecer a una comunidad exclusiva de Desarrolladores Android para tener acceso al código de cientos de aplicaciones de prueba desarrolladas, puede contactarse con nosotros por Whatsapp al [wa.me/59170616269](https://wa.me/59170616269)
 
