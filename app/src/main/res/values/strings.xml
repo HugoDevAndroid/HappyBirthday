@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Happy BIrthday</string>
+    <string name="app_name">Happy Birthday</string>
+    <string name="saludo">Hola!! 👋🏼\nHoy es tu cumpleaños</string>
+    <string name="instruccion">Déjame tu nombre abajo</string>
+    <string name="txt_boton">Dale Clic</string>
 </resources>
