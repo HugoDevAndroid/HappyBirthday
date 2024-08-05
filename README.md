@@ -1,4 +1,5 @@
 # PROYECTO INICIAL - 05/08/2024
+
 ## VIDEO DEL PROYECTO MEJORADO
 
 > [!NOTE]
@@ -41,6 +42,18 @@ Esta Aplicación móvil tiene su inspiración en un proyecto de *Crear un diseñ
 <p align="center">
 <img src="src/image_03.png" width="270" height="500"> <img src="src/image_04.png" width="270" height="500">
 </p>
+
+## DESCRIPCIÓN DE LAS MEJORAS DEL PROYECTO
+
+✔️ El proyecto cuenta con dos pantallas y es interactiva con el usuario.
+
+✔️ En la primera pantalla se le pide el nombre al usuario.
+
+✔️ Al ingresar su nombre y dar clic al botón le envía a la segunda pantalla.
+
+✔️ La segunda pantalla muestra el nombre del usuario, una imagen animada y música de fondo.
+
+✔️ El usuario tiene dos controles para el audio, el control de pausa y el control de continuar la reproducción.
 
 
 
