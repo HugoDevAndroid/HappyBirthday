@@ -58,7 +58,7 @@ Esta Aplicación móvil tiene su inspiración en un proyecto de *Crear un diseñ
 ✔️ La aplicación se ha diseñado para tener su propio ícono de aplicación al momento de instalarse en un dispositivo físico o virtual.
 
 > [!IMPORTANT]
-> Si te interesa aprender cómo realizar alguna de estas funcionalidades de la aplicación, brindamos pequeños cursos de manera virtual y personalizada. Puedes contactarnos por Whatsapp al [wa.me/59170616269](https://wa.me/59170616269).
+> Si te interesa aprender cómo realizar alguna de estas funcionalidades de la aplicación, brindamos pequeños cursos de manera virtual y personalizada. O si deseas ayuda de un Desarrollador Junior o Senior **garantizado** para alguna aplicación que tienes en mente, puedes contactarnos por Whatsapp al [wa.me/59170616269](https://wa.me/59170616269).
 
 ## APLICACIÓN DESCARGABLE
 
